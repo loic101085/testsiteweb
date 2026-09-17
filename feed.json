@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "testsiteweb",
+    "description": "",
+    "home_page_url": "https://testsiteweb.github.io",
+    "feed_url": "https://testsiteweb.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "loic"
+    },
+    "items": [
+    ]
+}
