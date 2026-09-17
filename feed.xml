@@ -3,10 +3,22 @@
     <title>testsiteweb</title>
     <link href="https://testsiteweb.github.io/feed.xml" rel="self" />
     <link href="https://testsiteweb.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-09-17T11:15:46+02:00</updated>
     <author>
         <name>loic</name>
     </author>
     <id>https://testsiteweb.github.io</id>
 
+    <entry>
+        <title>test site</title>
+        <author>
+            <name>loic</name>
+        </author>
+        <link href="https://testsiteweb.github.io/test-site.html"/>
+        <id>https://testsiteweb.github.io/test-site.html</id>
+
+        <updated>2026-09-17T11:15:46+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
