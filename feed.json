@@ -9,17 +9,5 @@
         "name": "loic"
     },
     "items": [
-        {
-            "id": "https://testsiteweb.github.io/test-site.html",
-            "url": "https://testsiteweb.github.io/test-site.html",
-            "title": "test site",
-            "author": {
-                "name": "loic"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-09-17T11:15:46+02:00",
-            "date_modified": "2026-09-17T11:15:46+02:00"
-        }
     ]
 }
