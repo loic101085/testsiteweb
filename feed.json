@@ -2,12 +2,26 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "testsiteweb",
     "description": "",
-    "home_page_url": "https://testsiteweb.github.io",
-    "feed_url": "https://testsiteweb.github.io/feed.json",
+    "home_page_url": "https://loic101085.github.io/testsiteweb",
+    "feed_url": "https://loic101085.github.io/testsiteweb/feed.json",
     "user_comment": "",
     "author": {
         "name": "loic"
     },
     "items": [
+        {
+            "id": "https://loic101085.github.io/testsiteweb/chateau.html",
+            "url": "https://loic101085.github.io/testsiteweb/chateau.html",
+            "title": "chateau",
+            "summary": "Disponible Particuliers &amp; CE Château Gonflable \"Jungle Party\" Idéal pour les anniversaires, mariages et fêtes de village. Un grand classique indémodable qui garantit des heures de saut en toute sécurité ! Matériel professionnel nettoyé et désinfecté après chaque location. Installation et repliage assurés par nos&hellip;",
+            "content_html": "<!-- En-tête du produit -->\n<div class=\"produit-header\" style=\"display: flex; flex-wrap: wrap; gap: 30px; align-items: center; margin-bottom: 30px;\">\n<div style=\"flex: 1; min-width: 300px;\"><!-- Mets ici l'image principale de ton château gonflable --> <img loading=\"lazy\" style=\"width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);\" src=\"URL_DE_TON_IMAGE_ICI.jpg\" alt=\"Château Gonflable Jungle\" data-is-external-image=\"true\"></div>\n<div style=\"flex: 1; min-width: 300px;\"><span style=\"background: #e1f5fe; color: #0288d1; padding: 5px 12px; border-radius: 20px; font-weight: bold; font-size: 0.9em;\">Disponible Particuliers &amp; CE</span>\n<h1 style=\"margin-top: 15px; color: #333;\">Château Gonflable \"Jungle Party\"</h1>\n<p style=\"font-size: 1.1em; color: #666; line-height: 1.6;\">Idéal pour les anniversaires, mariages et fêtes de village. Un grand classique indémodable qui garantit des heures de saut en toute sécurité !</p>\n<div style=\"font-size: 1.5em; font-weight: bold; color: #2e7d32; margin: 20px 0;\">À partir de 150 € <span style=\"font-size: 0.6em; color: #666; font-weight: normal;\">/ la journée (week-end nous consulter)</span></div>\n<!-- Bouton d'appel à l'action gratuit (vers formulaire ou WhatsApp) --> <a href=\"#contact\" style=\"display: inline-block; background: #ff6f00; color: white; padding: 12px 25px; border-radius: 5px; text-decoration: none; font-weight: bold; box-shadow: 0 3px 6px rgba(0,0,0,0.16);\">📅 Vérifier la disponibilité / Devis</a></div>\n</div>\n<!-- Bloc Caractéristiques Techniques -->\n<div style=\"background: #f9f9f9; padding: 25px; border-radius: 8px; margin-bottom: 30px; border-left: 5px solid #ff6f00;\">\n<h3 style=\"margin-top: 0; color: #333;\">📋 Caractéristiques Techniques</h3>\n<ul style=\"list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px;\">\n<li><strong>📏 Dimensions (L x l x H) :</strong> 5m x 4m x 3.5m</li>\n<li><strong>👶 Tranche d'âge :</strong> De 3 à 12 ans</li>\n<li><strong>👥 Capacité max :</strong> 8 enfants en même temps</li>\n<li><strong>⚡ Alimentation :</strong> Standard 230V - 1500W</li>\n<li><strong>🛡️ Sécurité :</strong> Conforme norme NF EN 14960</li>\n</ul>\n</div>\n<!-- Section Sécurité / Rassurante -->\n<div style=\"border: 1px solid #e0e0e0; padding: 20px; border-radius: 8px; text-align: center;\">\n<h4 style=\"margin-top: 0; color: #333;\">✨ Nos engagements qualité</h4>\n<p style=\"color: #555; font-size: 0.95em; margin-bottom: 0;\">Matériel professionnel nettoyé et désinfecté après chaque location. Installation et repliage assurés par nos soins (ou kit complet fourni si retrait sur place).</p>\n</div>",
+            "author": {
+                "name": "loic"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-23T12:22:07+02:00",
+            "date_modified": "2026-09-23T12:22:07+02:00"
+        }
     ]
 }
